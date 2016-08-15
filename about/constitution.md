@@ -1,6 +1,6 @@
 ---
-layout: about
 title: Constitution and By-laws
+layout: about
 ---
 
 The purpose of the College Communicators Association of Virginia and the District of Columbia (CCA) is to advance the cause of higher education in the Commonwealth and in the nation's capital through an exchange of ideas among its members and through its programs and to provide professional development opportunities for its members.

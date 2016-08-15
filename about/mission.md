@@ -1,6 +1,6 @@
 ---
-layout: about
 title: Mission
+layout: about
 ---
 
 It is the primary purpose of the organization to provide professional development opportunities for practicing professionals within the field of college/university communications, in both Virginia and the District of Columbia, with an emphasis on programs and educational opportunities for those new to the field and for experienced professionals alike.

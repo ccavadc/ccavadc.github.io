@@ -1,6 +1,6 @@
 ---
-layout: default
 title: College Communicators Association of Virginia and D.C.
+layout: default
 ---
 
 <div class="row">
