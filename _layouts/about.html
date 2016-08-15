@@ -19,7 +19,21 @@
 
     <div id="main">
       <div class="container">
-      {{ content }}
+        <div class="row">
+          <div class="col-md-3">
+            <h4>About CCA</h4>
+            <ul class="nav nav-pills nav-stacked">
+              <li class="active"><a href="/about/mission.html">Mission</a></li>
+              <li><a href="/about/constitution.html">Constitution &amp; By-laws</a></li>
+              <li><a href="/about/history.html">History of CCA</a></li>
+              <li><a href="/about/board.html">Board of Directors</a></li>
+              <li><a href="/about/awards.html">Awards and Nominations</a></li>
+            </ul>
+            </div><!-- /.col-md-3 -->
+            <div class="col-md-9">
+              <h1>{{ page.title }}</h1>
+              {{ content }}
+            </div>
       </div><!-- /.container -->
     </div><!-- /#main -->
 
@@ -29,7 +43,7 @@
           <div class="col-md-3">
             <h4>Mission</h4>
             <p>We seek to advance the cause of higher education in the Commonwealth and the nation's capital through an exchange of ideas among our members and through our programs and to provide professional development opportunities for our members.</p>
-            <p><a href="/about/mission.html">Read more</a>.</p>
+            <p><a href="{{ ROOT_URL }}/mission.html">Read more</a>.</p>
           </div>
           <div class="col-md-6">
             <h4>Events</h4>
