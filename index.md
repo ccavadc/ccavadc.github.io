@@ -16,7 +16,7 @@ The CCA summer conference was held Wednesday and Thursday, **June 15-16, 2016** 
 
 #### Save the date
 
-CCA's winter conference will be held in January at the **University of Virginia**. Watch for details this fall!
+CCA's winter conference will be held on January 13, 2017 at the **University of Virginia**. Watch for details this fall!
 {:.lead}
 
 </div>
