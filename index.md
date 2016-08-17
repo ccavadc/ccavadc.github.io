@@ -1,13 +1,13 @@
 ---
 title: Home
 photo:
-  image: "/img/roanoke.jpg"
+  url: "/img/roanoke.jpg"
 layout: default
 ---
 
 <div class="row">
 <div class="col-md-9">
-<img src="{{ photo.image }}" class="photo">
+<img src="{{ photo.url }}" class="photo">
 </div>
 
 <div class="col-md-3" markdown="1">
