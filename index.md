@@ -7,7 +7,7 @@ layout: default
 
 <div class="row">
 <div class="col-md-9">
-<img src="/img/roanoke.jpg" class="photo">
+<img src="{{ photo.image }}" class="photo">
 </div>
 
 <div class="col-md-3" markdown="1">
