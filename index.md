@@ -1,7 +1,7 @@
 ---
 title: College Communicators Association of Virginia and D.C.
 photo:
-  image: "/img/roanoke.jpg"
+  image: "/img/uva.jpg"
 layout: default
 ---
 
