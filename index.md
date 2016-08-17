@@ -1,5 +1,5 @@
 ---
-title: College Communicators Association of Virginia and D.C.
+title: Home
 photo:
   image: "/img/roanoke.jpg"
 layout: default
